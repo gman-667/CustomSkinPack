@@ -1,9 +1,9 @@
 {
   "skins": [
     {
-      "localization_name": "Iskall85",
+      "localization_name": "Gman667",
       "geometry": "geometry.humanoid.custom",
-      "texture": "Iskall85.png",
+      "texture": "GG.png",
       "type": "free"
     }
   ],
